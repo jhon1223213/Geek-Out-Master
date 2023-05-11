@@ -5,7 +5,7 @@ El objetivo de este juego es conseguir la mayor cantidad de puntos juntando dado
 Pero no será todo tan fácil ya que una vez que tiremos los dados TODAS las caras deberán ejecutarse: los meeples nos ayudarán a relanzar los dados, las naves espaciales los eliminarán y los superhéroes revelarán su lado oculto. Por suerte, los corazones nos brindarán un dado extra, pero también están los dragones, quienes nos harán perder el turno. Geek Out Masters es un juego de dados rápido y dinámico, que combina estrategia y azar. ¿Estás listo para salir a la búsqueda del número mágico?
 
 /*
-@authores: Jhon Frank Vasquez y Juan Felipe Palechor 
-@Estudiantes de TEDESOF de la Universidad del Valle
+@authores: Jhon Frank Vasquez y Juan Felipe Palechor.
+@Estudiantes de TEDESOF de la Universidad del Valle.
 */
 
