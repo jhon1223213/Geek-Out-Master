@@ -6,6 +6,6 @@ Pero no será todo tan fácil ya que una vez que tiremos los dados TODAS las car
 
 /*
 @authores: Jhon Frank Vasquez y Juan Felipe Palechor 
-@ Estudiantes de TEDESOF de la Universidad del Valle
+@Estudiantes de TEDESOF de la Universidad del Valle
 */
 
